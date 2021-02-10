@@ -1,0 +1,7 @@
+name: APlugin
+version: ${project.version}
+main: me.auser.Main
+api-version: 1.16
+commands:
+  test:
+    description: general command
